@@ -1,4 +1,8 @@
 bars has finished
 belya has finished 2
 idk
+<<<<<<< HEAD
 фыв
+=======
+das
+>>>>>>> a00c44c13b42fa7cc60285342f843d97a09e780e
